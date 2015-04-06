@@ -1,10 +1,10 @@
 {
   "name": "react-class-name",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny React mixin for enabling component themes",
   "main": "src/class-name-mixin.js",
   "scripts": {
-    "test": "mocha tests/data-fetch-mixin.js"
+    "test": "mocha tests/"
   },
   "repository": {
     "type": "git",
